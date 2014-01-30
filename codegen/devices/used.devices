@@ -1,0 +1,126 @@
+1 System
+	1 Battery
+	2 Mains
+2 CPU
+	1 Core
+		1 Subcore
+	2 ALU
+	3 Pipeline
+	3 Control Unit
+	4 Memory
+		1 Register
+		2 Cache
+	5 Clock
+	6 Scheduler
+3 Storage
+	1 Internal
+		1 HDD
+		2 SSD
+		3 Floppy Disk
+		4 SSHD
+		5 Tape
+	2 External
+		1 HDD
+		2 SSD
+		3 Floppy Disk
+		4 SSHD
+		5 Flash Drive
+		6 Memory Card
+		7 Tape
+	3 Network
+4 Display
+	1 Monitor
+	2 HMD
+	3 Projector
+5 Audio
+	1 Speaker
+	2 Microphone
+	3 Headphone
+	4 Sound Card
+6 Optical Drive
+	1 CD
+	2 DVD
+	3 Bluray
+	4 ARMD
+7 Memory
+	1 RAM
+8 Input
+	1 Pointing
+		1 Mouse
+		2 Trackpad
+		3 Graphics Tablet
+		4 Joystick
+		5 Pointing Stick
+	2 Keyboard
+	3 Scanner
+	4 Camera
+		1 Webcam
+9 Output
+	1 Printer
+10 Graphics
+	1 GPU
+	2 Memory
+	3 RAMDAC
+11 FPGA
+12 Expansion Card
+	1 TV Tuner
+	2 Sound Card
+	3 Network Card
+	4 Host Adapter
+		1 SCSI
+		2 ATA
+		3 SAS
+		4 SATA
+		5 eSATA
+		6 RAID
+		7 IDE
+		8 EIDE
+		9 FATA
+		10 PATA
+	5 POST Card
+	6 Compatibility Card
+	7 Physics Card
+	8 Disk Controller
+	9 Data Port
+		1 Ethernet
+		2 Parallel
+		3 Serial
+			1 SPI
+			2 I2C
+			3 SMBus
+			4 GPIB
+			5 SCPI
+		4 USB
+		5 Firewire
+		6 Thunderbolt
+		7 Card Reader
+		8 Fibre Channel
+		9 InfiniBand
+	10 Radio Tuner
+	11 Bluetooth
+13 Motherboard
+	1 Socket
+	2 Chipset
+	3 Nonvolatile Memory
+		1 Flash
+		2 EEPROM
+		3 EPROM
+	4 Clock Generator
+	5 Expansion Slot
+		1 PCI
+		2 PCIe
+		3 AGP
+		4 ISA
+		5 MCA
+		6 VLB
+		7 PC Card
+			1 PC Card
+			2 CardBus
+			3 CardBay
+			4 ExpressCard
+		8 Compact Flash
+		9 SBus
+		10 Zorro
+		11 NuBus
+14 Power
+	1 PSU
