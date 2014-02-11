@@ -38,3 +38,12 @@ EACOF can help in several ways.
 * It provides access to concrete numbers about energy consumption. This allows code to be profiled, making it possible to know exactly where energy is being used.
 * It separates the reading of energy data from the collection. Traditional methods of measuring energy consumption tightly tie the method of energy measurement into the application. By separating the tasks of gathering and utilisation of data, EACOF simplifies the task of using multiple sources of energy data.
 * It allows applications to adapt at run-time based on current energy consumption. By making energy consumption data available in real-time, EACOF enables applications to adapt based on a combination of context and energy consumption to provide a better user experience. For example, an EACOF-aware video player may intelligently adapt based on energy consumption readings to ensure a video will complete before the battery runs out.
+
+Further Information
+-------------------
+
+EACOF has been and is to be presented at a couple of conferences. These presentations can provide additional information about the motivation behind, design of, and use cases for EACOF.
+
+* FOSDEM 2014 - Content regarding this presentation can be found in a [separate repository](https://github.com/eacof/fosdem-2014).
+* SAC 2014 - A research paper about EACOF is to be presented at [SAC 2014](http://www.acm.org/conferences/sac/sac2014/).
+  * Hayden Field, Glen Anderson, Kerstin Eder, [EACOF: A Framework for Providing Energy Transparency to enable Energy-Aware Software Development](http://www.cs.bris.ac.uk/Publications/pub_master.jsp?id=2001694). 29th ACM Symposium On Applied Computing. ISSN tbc, pp. tbc–tbc. March 2014.
