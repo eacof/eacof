@@ -45,5 +45,5 @@ Further Information
 EACOF has been and is to be presented at a couple of conferences. These presentations can provide additional information about the motivation behind, design of, and use cases for EACOF.
 
 * FOSDEM 2014 - Content regarding this presentation can be found in a [separate repository](https://github.com/eacof/fosdem-2014).
-* SAC 2014 - A research paper about EACOF is to be presented at [SAC 2014](http://www.acm.org/conferences/sac/sac2014/).
-  * Hayden Field, Glen Anderson, Kerstin Eder, [EACOF: A Framework for Providing Energy Transparency to enable Energy-Aware Software Development](http://www.cs.bris.ac.uk/Publications/pub_master.jsp?id=2001694). 29th ACM Symposium On Applied Computing. ISSN tbc, pp. tbc–tbc. March 2014.
+* SAC 2014 - A research paper about EACOF was presented at [SAC 2014](http://www.acm.org/conferences/sac/sac2014/).
+  * Hayden Field, Glen Anderson, Kerstin Eder, [EACOF: A Framework for Providing Energy Transparency to enable Energy-Aware Software Development](http://arxiv.org/abs/1406.0117). In [Proceedings of the 29th Annual ACM Symposium on Applied Computing](http://doi.acm.org/10.1145/2554850.2554920) (SAC '14) pp. 1194-1199. March 2014.
